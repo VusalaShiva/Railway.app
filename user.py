@@ -92,7 +92,5 @@ def main(cursor):
         elif ch == "5":
             print("LOGGING OUT...".center(100))
             break
-        elif ch == "":
-            pass
         else:
             print("INVALID CHOICE. PLEASE TRY AGAIN.".center(100))

@@ -22,8 +22,6 @@ def start():
         elif ch == "3":
             print("Exiting... Thank you for using the system!".center(100))
             break
-        elif ch =="":
-            pass
         else:
             print("Invalid choice. Please try again.".center(100))
 
