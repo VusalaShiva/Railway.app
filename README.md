@@ -30,3 +30,4 @@ DB_NAME=railway
 ## Notes
 - Do NOT push your `.env` file to GitHub.
 - The project will use the remote MySQL database specified in `.env`.
+
