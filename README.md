@@ -6,7 +6,7 @@ This is a console-based railway ticketing system in Python using a remote MySQL 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourname/railway-system.git
+   git clone https://github.com/VusalaShiva/Railway.app.git
    cd railway-system
    ```
 2. Install dependencies:
